@@ -1,3 +1,3 @@
-# heroku_node_test-
+#Heroku_Node.js
 
-### Learning about HEROKU at Prime Digital Academy as a Full Stack Software Developer Student.
+###Quick intro and setup with Heroku.
