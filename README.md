@@ -1,3 +1,1 @@
-#Heroku_Node.js
-
-###Quick intro and setup with Heroku.
+### Wiring [Heroku](https://www.heroku.com/) and Node.JS.
